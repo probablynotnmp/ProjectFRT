@@ -5,7 +5,6 @@ Welcome to our online booking platform for parlor and spa services! Our mission 
 ## Table of Contents
 
 Features
-
 Getting Started
 Usage
 Technologies
