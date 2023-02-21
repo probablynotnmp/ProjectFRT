@@ -1,4 +1,5 @@
-# Envi 
+# Envi: a Beauty and Spa Experience
+
 Welcome to our online booking platform for parlor and spa services! Our mission is to make self-care accessible to everyone by providing a seamless, convenient, and enjoyable booking experience.
 
 ## Table of Contents
@@ -42,4 +43,3 @@ We also use a range of APIs and libraries to provide our users with the best pos
 © 2023 All rights reserved by Prathyush N M Designed for FRT Project
 
 
-ˇ
