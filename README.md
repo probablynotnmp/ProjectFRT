@@ -1,4 +1,4 @@
-# Envi: a Beauty and Spa Experience
+# Envi: a Beauty and Spa Experience 🧖🏾‍♂️💆🏻‍♂️
 
 https://brave-island-0b2396a00.2.azurestaticapps.net/
 
