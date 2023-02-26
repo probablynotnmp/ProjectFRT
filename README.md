@@ -1,5 +1,9 @@
 # Envi: a Beauty and Spa Experience 🧖🏾‍♂️💆🏻‍♂️
 
+## This is a project created for Future Ready Talent Internship 2023
+
+ 👇👇👇👇 PROJECT LINK 👇👇👇👇
+
 ** https://brave-island-0b2396a00.2.azurestaticapps.net/ **
 
 Welcome to our online booking platform for parlor and spa services! Our mission is to make self-care accessible to everyone by providing a seamless, convenient, and enjoyable booking experience.
